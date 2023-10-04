@@ -1,5 +1,5 @@
 # Soda Can Delivery
-Code Repository for EG2310 Group 7 AY22/23
+Code Repository for EG2310 Group 7 AY22/23 https://docs.google.com/document/d/12iMz_IQ1G9Wm2oOXZOY0jznhilAQFaWyv4wf_CHxV0o/edit
 
 - **_laptop_codes_** contains Arduino code uploaded to ESP32 on the dispenser, testing code for MQTT client on laptop as well as communcation python script ran on laptop during operation
 - **_turtlebot_python_script_** contains python scripts stored on the Turtlebot creating for the purpose of testing and reference
